@@ -1,0 +1,14 @@
+body {
+    background-color: hsl(20, 30%, 92%);
+  }
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+}
+h1,h3 {
+    font-family: corciva;
+    color: #B05B3B;
+}
